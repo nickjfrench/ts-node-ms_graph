@@ -1,0 +1,11 @@
+{
+  "name": "ts-node-ms_graph",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "author": "nickjfrench",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/msal-node": "^2.7.0",
+    "node-fetch": "^3.3.2"
+  }
+}
